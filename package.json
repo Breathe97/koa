@@ -1,0 +1,14 @@
+{
+  "name": "node-koa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Breathe",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.10.0",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.7.7",
+    "njwt": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
